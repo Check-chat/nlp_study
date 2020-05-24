@@ -45,7 +45,8 @@
 ## 참고자료 
 
 ### 1)  nlp 분야 키워드  - 챗봇에 활용되어질 부분이라 생각하는 부분은  굵게 표시해뒀어욤 
- * machine translation
+		> 논문 모음집 https://github.com/papower1/Awesome-Korean-NLP-Papers
+* machine translation
 
 * **Q&A machine**
 
